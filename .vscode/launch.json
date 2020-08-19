@@ -12,7 +12,7 @@
             "webRoot": "${workspaceFolder}",
             "pathMapping": 
                 {
-                    "webpack:///src":  "${workspaceFolder}/src"
+                    "webpack://./src":  "${workspaceFolder}/src"
                 }
             
         }
