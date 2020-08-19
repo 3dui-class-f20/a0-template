@@ -9,7 +9,12 @@
             "request": "launch",
             "name": "Launch browser against localhost",
             "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "webRoot": "${workspaceFolder}",
+            "pathMapping": 
+                {
+                    "webpack:///src":  "${workspaceFolder}/src"
+                }
+            
         }
     ]
 }
