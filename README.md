@@ -23,12 +23,12 @@ Each of the parts to be added are discussed in one of the lessons in the [Babylo
 1. Use the Universal camera to support movement in the scene.  (1)
 2. Add a ground plane with some interesting ground texture.  Should be centered under the initial position of the camera. (1)
 3. Change the PointLight that is in the sample code to a directional light that is not very bright and not white, and also add one SpotLight to the scene, a reasonable distance above the viewer's initial position. (1)
-4. Add at least 5 objects, with interesting materials and/or textures, sitting on the ground. (1)
-5. Use keyframe animation to add at least 2 moving objects above the initial viewer position, but below the lights. (1)
+4. Add at least 5 objects, with interesting materials and/or textures, sitting on the ground. (2)
+5. Use keyframe animation to add at least 2 moving objects above the initial viewer position, but below the lights. (2)
 6. When you click on one of your objects with the mouse, play a sound and have a particle system shoot particles out from the center of the object. (1)
 7. Add shadows, for both the directional and spot lights. (1)
 
-2 additional points will be given for using interesting textures, lights and materials.  (You won't be judged on aesthetics;  I want you to do more than just cut and paste code and textures from the tutorial.)
+Up to 2 additional bonus points will be given for using interesting textures, lights and materials.  (You won't be judged on aesthetics;  I want you to do more than just cut and paste code and textures from the tutorial.)
 
 ## Overview 
 
